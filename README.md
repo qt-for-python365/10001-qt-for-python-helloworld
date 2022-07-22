@@ -2,8 +2,12 @@
 
 ## how
 
+* https://doc.qt.io/qtforpython/quickstart.html
+
 ```
 pip install pyside6
+```
+```
 Collecting pyside6
   Downloading PySide6-6.3.1-cp36-abi3-manylinux_2_28_x86_64.whl (65 kB)
      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 65.9/65.9 kB 492.4 kB/s eta 0:00:00
